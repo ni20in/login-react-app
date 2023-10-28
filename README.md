@@ -1,8 +1,8 @@
 # login-react-app
-##git clone [link of <repo>](https://github.com/ni20in/login-react-app.git)https://github.com/ni20in/login-react-app.git
+git clone [link of <repo>](https://github.com/ni20in/login-react-app.git)https://github.com/ni20in/login-react-app.git
 
-##cd login-react-app
+cd login-react-app
 
-##npm i
+npm i
 
-##npm start
+npm start
